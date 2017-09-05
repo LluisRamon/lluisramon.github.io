@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lluís Ramon Blog</title>
+    <link>/</link>
+    <description>Recent content on Lluís Ramon Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Let&#39;s get started</title>
+      <link>/2017/09/05/lets-get-started/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/09/05/lets-get-started/</guid>
+      <description>Several months ago, great Yihui Xie started a new package called blogdown for easy webpage and blogs creation with R markdown, which kept my attention. Since then many blogs that I follow as Hyndman, Romain François, Simply Statistics have switched to blogdown.
+I have been blogging in Barcelona R Users group blog. At some point I stopped but I always missed it. It was a great way to share and learn things and to clarify ideas about what you write, doesn’t matter if it is about packages, functions or programming.</description>
+    </item>
+    
+    <item>
+      <title>Hi! I&#39;m Lluís Ramon</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am a Data Science and Machine Learning enthusiast. On the field for several years I feel that every time I have more stuff left to learn.
+I believe that sharing knowledge is a great way to improve both individually and collectively. I try to be active in the Barcelona Data Science community and I am co-organizer of Barcelona R users Group and Machine Learning Study Group.
+You can find me in meetups but also in github, twitter and linkedIn.</description>
+    </item>
+    
+  </channel>
+</rss>

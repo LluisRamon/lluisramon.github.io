@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Lluís Ramon Blog</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Lluís Ramon Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Let&#39;s get started</title>
+      <link>/2017/09/05/lets-get-started/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/09/05/lets-get-started/</guid>
+      <description>Several months ago, great Yihui Xie started a new package called blogdown for easy webpage and blogs creation with R markdown, which kept my attention. Since then many blogs that I follow as Hyndman, Romain François, Simply Statistics have switched to blogdown.
+I have been blogging in Barcelona R Users group blog. At some point I stopped but I always missed it. It was a great way to share and learn things and to clarify ideas about what you write, doesn’t matter if it is about packages, functions or programming.</description>
+    </item>
+    
+  </channel>
+</rss>
